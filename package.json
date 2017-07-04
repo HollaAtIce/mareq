@@ -1,0 +1,20 @@
+{
+  "name": "mareq",
+  "version": "1.0.0",
+  "description": "modern assembly required",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HollaAtIce/mareq.git"
+  },
+  "author": "IC",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/HollaAtIce/mareq/issues"
+  },
+  "homepage": "https://github.com/HollaAtIce/mareq#readme"
+}
