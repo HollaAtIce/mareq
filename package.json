@@ -16,5 +16,16 @@
   "bugs": {
     "url": "https://github.com/HollaAtIce/mareq/issues"
   },
-  "homepage": "https://github.com/HollaAtIce/mareq#readme"
+  "homepage": "https://github.com/HollaAtIce/mareq#readme",
+  "dependencies": {
+    "@uirouter/angularjs": "^1.0.3",
+    "angular": "^1.6.5",
+    "body-parser": "^1.17.2",
+    "dotenv": "^4.0.0",
+    "express": "^4.15.3",
+    "font-awesome": "^4.7.0",
+    "method-override": "^2.3.9",
+    "path": "^0.12.7",
+    "tachyons": "^4.7.4"
+  }
 }
