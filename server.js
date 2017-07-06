@@ -43,10 +43,6 @@ app.use((req, res, next) => {
     next()
 })
 
-// app.get('/', (req, res) => {
-//   res.send('MODERN ASSEMBLY REQUIRED')
-// })
-
  app.use(require('./app/routes/index.routes.js'))
 
 app.listen(port, () => {
