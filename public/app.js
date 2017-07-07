@@ -43,7 +43,7 @@ HomeController.$inject = ['HomeService']
 
 function HomeController(HomeService) {
     var vm = this
-    vm.tagline = 'Modern Assembly Required'
+    vm.name = 'Modern Assembly Required'
 
     function onError(err) {
         console.log(err)
