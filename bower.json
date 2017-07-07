@@ -1,0 +1,23 @@
+{
+  "name": "mareq",
+  "description": "modern assembly required",
+  "main": "server.js",
+  "authors": [
+    "IC"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/HollaAtIce/mareq",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/libs",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-ui-router": "^1.0.5",
+    "angular": "^1.6.5"
+  }
+}
