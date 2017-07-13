@@ -1,9 +1,6 @@
 {
   "name": "mareq",
   "version": "1.0.0",
-  "engines": {
-    "node": "6.9.2"
-  },
   "description": "modern assembly required",
   "main": "server.js",
   "scripts": {
